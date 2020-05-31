@@ -1,2 +1,2 @@
 # PreComputePrime
-In this  i find prime upto large range 
+find sum of Prime number upto large range in min time
